@@ -1,3 +1,6 @@
 [submodule "frontend-nanodegree-resume"]
 	path = frontend-nanodegree-resume
 	url = https://github.com/dshahdev/frontend-nanodegree-resume
+[submodule "uda_portfolio"]
+	path = uda_portfolio
+	url = https://github.com/dshahdev/uda_portfolio.git
